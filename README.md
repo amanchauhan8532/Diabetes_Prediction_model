@@ -1,1 +1,1 @@
-# Diabetes_Prediction_model
+# Daibetes
